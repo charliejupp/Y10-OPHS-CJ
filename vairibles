@@ -1,0 +1,27 @@
+#
+
+# the values is a consthis is a comment
+#vairibles vs constants
+#vairibles are declared in titlecase
+#constants are declared in capitals 
+
+#examples of vairibles 
+
+team1name ="charlies stars"
+team2name = "abra kebabra"
+
+#vairlibles have a useful name 
+#vairibles store a value(can change)
+#vairibles can not start with a number 
+#e.g. 1teamname ="abra kebabra"
+#this will cause a sytax error 
+
+#vairible cannot have a space in the name
+#e.g team name =" abra kebabra "
+#this will be a syntax error
+
+#this is a example of a constant
+FREETHROW=1
+TWOPOINTER=2
+THREEPOINTER =3
+#the values in a constant do not change
